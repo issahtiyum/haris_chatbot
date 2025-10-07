@@ -1,16 +1,47 @@
-# React + Vite
+# The Haris ChatBot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Haris' ChatBot is a simple, interactive web-based chatbot built with React.  
+It can flip a coin, roll a dice, or tell today’s date — while showcasing essential React concepts such as **state management**, **refs**, and **component composition**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Table of Contents
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tech Stack](#tech-stack)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Interactive chat interface with user and bot message bubbles
+- Built with React
+- Bot can flip coins, roll dice, or show today’s date
+- Demonstrates React hooks — `useState`, `useRef`
+- Scrollable chat area with dynamic message updates
+- Clean, responsive design using plain CSS
+
+---
+
+## Screenshots
+
+_(Replace these with your actual image paths once pushed to GitHub)_
+
+![Chat Interface](https://github.com/yourusername/haris-chatbot/blob/main/images/chat-ui.png "Chat Interface")  
+![User Interaction](https://github.com/yourusername/haris-chatbot/blob/main/images/chat-user.png "User Interaction")
+
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/haris-chatbot
+   ```
