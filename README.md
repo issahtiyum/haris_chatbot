@@ -32,10 +32,7 @@ Haris' ChatBot is a simple, interactive chatbot built with **React** and **Vite*
 
 ## Screenshots
 
-_(Replace with your actual image paths once pushed to GitHub)_
-
-![Chat Interface](https://github.com/yourusername/haris-chatbot/blob/main/images/chat-ui.png "Chat Interface")
-![User Interaction](https://github.com/yourusername/haris-chatbot/blob/main/images/chat-user.png "User Interaction")
+![User Interaction](https://raw.githubusercontent.com/issahtiyum/haris_chatbot/refs/heads/main/public/app-screenshots/Screenshot%202025-10-07%20at%209.52.20%E2%80%AFPM.png "User Interaction")
 
 ---
 
