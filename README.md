@@ -76,14 +76,15 @@ Haris' ChatBot is a simple, interactive chatbot built with **React** and **Vite*
 
 ## Usage
 
-1. Type a message into the input box and click **Send**.
-2. The bot will respond automatically based on your command:
+Type your message in the input field at the top of the chat
+Click the Send button or press Enter to submit
+Try these commands:
 
-   - Type **flip a coin** → 🪙 Bot flips a coin.
-   - Type **roll a dice** → 🎲 Bot rolls a dice.
-   - Type **date** → 📅 Bot shows today’s date.
+"Flip a coin" - Get a random heads or tails result
+"Roll a dice" - Get a random number from 1 to 6
+"What's today's date?" - Display the current date
 
-3. Continue chatting — messages appear dynamically inside a scrollable chat window.
+The bot will respond instantly with the requested information
 
 ---
 
