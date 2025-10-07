@@ -1,0 +1,35 @@
+.chat-area {
+  flex-grow: 1;
+  margin-top: 20px;
+  overflow: scroll;
+  scrollbar-width: none;
+}
+.message {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.message > img {
+  width: 40px;
+}
+.message > .bubble {
+  background-color: rgb(238, 238, 238);
+  max-width: 300px;
+  padding: 16px;
+  border-radius: 10px;
+}
+.message.user {
+  text-align: right;
+  justify-content: right;
+}
+.message.bot {
+  text-align: left;
+  justify-content: left;
+}
+.time-sent {
+  text-align: left;
+  font-size: 14px;
+  color: grey;
+  margin-top: 4px;
+}
