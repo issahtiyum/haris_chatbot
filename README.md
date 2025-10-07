@@ -1,4 +1,4 @@
-# Haris' ChatBot
+# 🤖 Haris' ChatBot
 
 ## Description
 
@@ -99,7 +99,7 @@ The bot will respond instantly with the requested information
 
 ## Contributing
 
-Contributions are always welcome! 🎉
+Contributions are always welcome!
 You can help by improving the design, expanding chatbot commands, or enhancing interactivity.
 
 1. Fork the repository
@@ -112,7 +112,7 @@ You can help by improving the design, expanding chatbot commands, or enhancing i
 3. Commit and push your changes
 4. Open a Pull Request
 
-Your contribution will make this project better and help me continue learning! 😄
+Your contribution will make this project better and help me continue learning!
 
 ---
 
